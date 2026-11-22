@@ -20,3 +20,4 @@ Galeri web serba pink untuk tiga edit video Adinda.
 - Tombol **Suka** tersimpan di browser masing-masing pengunjung. Jumlah suka tidak dibagikan antar pengunjung, karena GitHub Pages tidak punya server untuk menyimpannya.
 - Tombol **Unduh** langsung menyimpan file video dari folder `videos/`.
 - Untuk menambah video, taruh file .mp4 di `videos/` dan sampulnya di `img/`, lalu tambahkan satu entri di daftar `films` pada bagian script di `index.html`.
+
